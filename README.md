@@ -14,4 +14,4 @@ Not as thoroughly as I would have liked. No unit tests or anything. Just duplica
 
 This only works on a single level of json objects, nesting will probably break it. Though, I don't know enough about csv to know if that's even a thing.
 
-The code is will commented and should explain itself enough to be easily understood.
+The code is well commented and should explain itself enough to be easily understood.

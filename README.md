@@ -2,6 +2,9 @@
 ## csvtojson
 (or edxnode-csvtojson, because all the good unique names have been taken)
 
+To run:
+*node index.js input-filename.csv output-filename.json*
+
 >1. Walk us through the design of your project. Why did you design your project the way you did? What difficulties did you overcome?
 
 I initially tried a couple different npm modules but none of them printed out the json in the tabulated form requested. So I wrote something myself. Once I solved a couple off by one errors, and the problems they created, it was smooth sailing.

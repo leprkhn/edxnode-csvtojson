@@ -13,7 +13,7 @@ I initially tried a couple different npm modules but none of them printed out th
 
 Not as thoroughly as I would have liked. No unit tests or anything. Just duplicated the original csv file and jumbled some things up. Added commas where there shouldn't be any, removed fields from some of the entries, added blank lines.
 
-3. Let us know if anything doesn't work as intended so your reviewer will know ahead of time
+>3. Let us know if anything doesn't work as intended so your reviewer will know ahead of time
 
 This only works on a single level of json objects, nesting will probably break it. Though, I don't know enough about csv to know if that's even a thing.
 
